@@ -117,7 +117,7 @@ metadata:
 spec:
   project: default
   source:
-    repoURL: '[https://github.com/instana/robot-shop.git](https://github.com/instana/robot-shop.git)'
+    repoURL: '[https://github.com/instana/robot-shop.git]'
     path: K8s/helm
     targetRevision: master
   destination:
